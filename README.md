@@ -1,52 +1,14 @@
-# 👋 Hi, I'm Pouya Tayyari!
+*𝙻𝚊𝚜𝚝 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* *2025-01-25*
 
-🔗 [LinkedIn](https://www.linkedin.com/in/pouya-tayyari-062971a9/) | 📧 [Email Me](mailto:Pouya.Tayyari@gmail.com)
+📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎  
+👨‍💻 𝙲𝚘𝚍𝚎 𝚌𝚛𝚎𝚊𝚝𝚘𝚛 𝚠𝚒𝚝𝚑 𝚊 𝚔𝚗𝚊𝚌𝚔 𝚏𝚘𝚛 𝚋𝚞𝚜𝚒𝚗𝚎𝚜𝚜 𝚙𝚛𝚘𝚋𝚕𝚎𝚖-𝚜𝚘𝚕𝚟𝚒𝚗𝚐.  
+📚 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝙳𝚎𝚟 𝚜𝚝𝚞𝚍𝚎𝚗𝚝 𝚊𝚝 𝙼𝚘𝚑𝚊𝚠𝚔 𝙲𝚘𝚕𝚕𝚎𝚐𝚎, 𝚠𝚒𝚝𝚑 𝚊 𝙱𝚊𝚌𝚑𝚎𝚕𝚘𝚛'𝚜 𝚒𝚗 𝙲𝚘𝚖𝚖𝚎𝚛𝚌𝚎 𝚏𝚛𝚘𝚖 𝙼𝚌𝙼𝚊𝚜𝚝𝚎𝚛 𝚄𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢.  
+🛠️ 𝚂𝚔𝚒𝚕𝚕𝚜: Python, C#, HTML/CSS, Java, SQL, and more.  
 
----
+🌟 𝙷𝚒𝚐𝚑𝚕𝚒𝚐𝚑𝚝𝚜  
+🎮 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 𝚘𝚏 *𝙿𝚎𝚗𝚐𝚞𝚒𝚗 𝙳𝚊𝚜𝚑*, 𝚊 𝚞𝚗𝚒𝚚𝚞𝚎 𝚐𝚊𝚖𝚎 𝚋𝚞𝚒𝚕𝚝 𝚠𝚒𝚝𝚑 𝚄𝚗𝚒𝚝𝚢 𝚊𝚗𝚍 .𝙽𝙴𝚃.  
+🎸 𝙲𝚛𝚎𝚊𝚝𝚘𝚛 𝚘𝚏 𝚊 𝚜𝚝𝚊𝚝𝚒𝚌 𝚕𝚊𝚗𝚍𝚒𝚗𝚐 𝚙𝚊𝚐𝚎 𝚏𝚘𝚛 *1297 𝙱𝚊𝚗𝚍* 𝚞𝚜𝚒𝚗𝚐 𝙷𝚃𝙼𝙻, 𝙲𝚂𝚂, 𝚊𝚗𝚍 𝙹𝚊𝚟𝚊𝚂𝚌𝚛𝚒𝚙𝚝.  
 
-## 👨‍💻 About Me
-
-I am a dedicated professional with a strong foundation in customer service, sales, and team leadership. My experience spans e-commerce operations, social media content creation, and event management, with a proven track record of delivering exceptional results and creating meaningful client experiences. Currently, I am expanding my technical expertise through a Full Stack Software Development program at Mohawk College.
-
----
-
-## 🔧 Skills & Expertise
-
-- **Customer Service & Communication**: Skilled in understanding and meeting client needs, fostering satisfaction.
-- **Project & Event Management**: Experienced in budget planning, resource allocation, and coordinating large-scale events.
-- **Technical Skills**: HTML, CSS, Python, PHP, Java, Bash, MS Office.
-- **SEO & Marketing**: SEO strategies, social media content creation (Instagram, Twitter, Facebook).
-- **Leadership**: Successfully led teams, conducted executive meetings, and driven project objectives.
-
----
-
-## 📈 Experiences
-
-### SVP Sports  
-**E-Commerce Operation Assistant Manager** | *Sep 2020 – Present*  
-- Managed daily sales operations, driving a 50% YOY sales increase and achieving $2M in revenue growth.
-- Unified and optimized shipping processes, balancing costs with delivery efficiency.
-- Developed inventory strategies, automated curbside processes using Python, and executed sales events for maximum impact.
-
-### 9MediaSystem  
-**Sales Representative** | *Jan 2018 – May 2019*  
-- Boosted monthly organic traffic through effective SEO, propelling pages to top Google search results.
-- Created tailored marketing content, enhancing engagement across diverse client bases.
-- Designed impactful social media campaigns, resulting in significant lead growth for clients in the real estate sector.
-
-### McMaster Iranian Student Association  
-**Co-founder/President** | *Sep 2016 – May 2017*  
-- Organized large-scale events for over 200 attendees, managing budgets exceeding $10,000.
-- Successfully raised over $4,000 in sponsorships and donations, amplifying the association's reach.
-- Fostered community and engagement through strategic financial planning, transparent budget management, and active leadership.
-
----
-
-## 🎓 Education & Certifications
-
-- **Bachelor of Commerce** - DeGroote School of Business, McMaster University (2021)
-- **Full Stack Software Development** - Mohawk College (2024-Present)
-
----
-
-Thank you for visiting my GitHub! Let's connect and explore opportunities to collaborate and innovate! 🚀
+🌐 𝙻𝚎𝚝’𝚜 𝚌𝚘𝚗𝚗𝚎𝚌𝚝!  
+🔗 [𝙻𝚒𝚗𝚔𝚎𝚍𝙸𝚗](https://www.linkedin.com/in/pouya-tayyari-062971a9/)  
+📧 [𝙴𝚖𝚊𝚒𝚕](mailto:Pouya.Tayyari@mohawkcollege.ca)  
